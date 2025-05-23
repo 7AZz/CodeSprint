@@ -14,7 +14,7 @@ public class VowelStartingUniquePatients {
             }
         }
 
-        System.out.println(uniqueVowelNames.size());
+        System.out.println(uniqueVowelNames.size());`
         for (String name : uniqueVowelNames) {
             System.out.println(name);
         }
